@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_settings.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_location.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_location.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_refresh.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    }
+]

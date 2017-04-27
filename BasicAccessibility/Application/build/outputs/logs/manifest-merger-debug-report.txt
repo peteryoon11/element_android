@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:20:1-42:12
+	package
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:21:5-53
+	android:versionName
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:20:11-69
+application
+ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:27:5-40:19
+MERGED from [com.android.support:gridlayout-v7:25.0.1] C:\Users\yjisu\.android\build-cache\a9af5c9b6573b8fb0d85071583ffc950d81f56e6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\yjisu\.android\build-cache\621644bb677f2d5987eb991e6eb96663a5acd869\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\yjisu\.android\build-cache\9e42440808d8102b13df67452f9f8da84c955d4d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\yjisu\.android\build-cache\7121a07ed705c398cd1705723f947a6a401e6394\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\yjisu\.android\build-cache\881a43228264f41572d86e24b89c32b1a1d3d167\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\yjisu\.android\build-cache\db16fb485f007cd365e6e0771bdad085eb98c704\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\yjisu\.android\build-cache\d01d09114e3328e6188e564d9c194e96d93eb2e4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\yjisu\.android\build-cache\c4d07aac3a7719c9d6e9b4bab6beacafc69d8729\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\yjisu\.android\build-cache\32c436a8d148dfc983642c8b5da9b2e2860645fd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\yjisu\.android\build-cache\24248e9c3fb8141bcba66917a5fa0e43d8b28f39\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\yjisu\.android\build-cache\45e6b6ecb7e78aaf57f7b35e94b6009e23090527\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:31:9-40
+activity#com.example.android.basicaccessibility.MainActivity
+ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.0.1] C:\Users\yjisu\.android\build-cache\a9af5c9b6573b8fb0d85071583ffc950d81f56e6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\yjisu\.android\build-cache\621644bb677f2d5987eb991e6eb96663a5acd869\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\yjisu\.android\build-cache\9e42440808d8102b13df67452f9f8da84c955d4d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\yjisu\.android\build-cache\7121a07ed705c398cd1705723f947a6a401e6394\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\yjisu\.android\build-cache\881a43228264f41572d86e24b89c32b1a1d3d167\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\yjisu\.android\build-cache\db16fb485f007cd365e6e0771bdad085eb98c704\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\yjisu\.android\build-cache\d01d09114e3328e6188e564d9c194e96d93eb2e4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\yjisu\.android\build-cache\c4d07aac3a7719c9d6e9b4bab6beacafc69d8729\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\yjisu\.android\build-cache\32c436a8d148dfc983642c8b5da9b2e2860645fd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\yjisu\.android\build-cache\24248e9c3fb8141bcba66917a5fa0e43d8b28f39\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\yjisu\.android\build-cache\45e6b6ecb7e78aaf57f7b35e94b6009e23090527\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\yjisu\.android\build-cache\9e42440808d8102b13df67452f9f8da84c955d4d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\BasicAccessibility\Application\src\main\AndroidManifest.xml
