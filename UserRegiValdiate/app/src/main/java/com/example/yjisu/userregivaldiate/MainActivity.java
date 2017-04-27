@@ -39,9 +39,10 @@ public class MainActivity extends AppCompatActivity {
                     temp+=Integer.parseInt(String.valueOf(Valuekey[i])) * Integer.parseInt(String.valueOf(totalText[i]));
                 };
                 System.out.println("temp = "+temp+"");
-                int result=(((temp%11)%11)%10);
+                //int result=(((temp%11)%11)%10);
+                int result=((11-(temp%11))%10);
                 System.out.println("result = "+result+"");
-                if(result==6)
+                if(result==5)
                 {
                     textView.setText("유효한 번호!");
                 }
